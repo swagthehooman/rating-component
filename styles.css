@@ -146,6 +146,7 @@ p {
     border: 0px;
     height: 3.2rem;
     width: 3.2rem;
+    cursor: pointer;
 }
 
 .btns:hover {
@@ -171,6 +172,7 @@ p {
     color: var(--clr-neutral-white);
     border-radius: 2rem;
     height: 3.2rem;
+    cursor: pointer;
     width: 100%;
 }
 
